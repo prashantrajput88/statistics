@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm prashantrajput88</h1>
 
-<h3 align="center">A passionate data scientist from india</h3>
-
-<img align="right" alt="coding"width="400"src=https://user**
+<h3 align="center">A passionate data scientist from india</h
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrajput88&label=Profile%20views&color=3c60aa&style=plastic" alt="prashantrajput88" /> </p>
